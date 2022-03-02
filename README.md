@@ -1,6 +1,9 @@
 # Hi~~~ I'm Ada~~~
 
 ## I'm a Java Developer~~~
++ ⚛️ I'm interested in cloud computing and microservices.
++ 🖥️ I like reading, watching films and TV dramas.
+
 
 ### Connect with me:
 [![GitHub](images/github.png)](https://github.com/adafycheng)
