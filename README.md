@@ -15,11 +15,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [Java Microservice on Google Kubernetes Engine &lpar;GKE&rpar; Cluster](https://dev.to/adafycheng/java-microservice-in-google-could-2nbf)
+- [CI with Snyk using GitHub Actions](https://dev.to/adafycheng/ci-with-snyk-using-github-actions-5f51)
+- [Develop a React Component using create-react-library template](https://dev.to/adafycheng/develop-a-react-component-using-create-react-library-template-2cib)
+- [Dockerizing a Node.js web application](https://dev.to/adafycheng/dockerizing-a-nodejs-web-application-2hha)
+- [Running Java Microservices in Docker](https://dev.to/adafycheng/running-microservices-in-docker-1edm)
 <!-- BLOG-POST-LIST:END -->
 
 
