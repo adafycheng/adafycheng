@@ -12,6 +12,7 @@
 [![HashNode](images/hashnode.png)](https://hashnode.com/@adafycheng)
 [![dev.to](images/dev-black.png)](https://dev.to/adafycheng)
 
+---
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
