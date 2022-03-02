@@ -15,11 +15,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Java Microservice on Google Kubernetes Engine &lpar;GKE&rpar; Cluster](https://dev.to/adafycheng/java-microservice-in-google-could-2nbf)
-- [CI with Snyk using GitHub Actions](https://dev.to/adafycheng/ci-with-snyk-using-github-actions-5f51)
-- [Develop a React Component using create-react-library template](https://dev.to/adafycheng/develop-a-react-component-using-create-react-library-template-2cib)
-- [Dockerizing a Node.js web application](https://dev.to/adafycheng/dockerizing-a-nodejs-web-application-2hha)
-- [Running Java Microservices in Docker](https://dev.to/adafycheng/running-microservices-in-docker-1edm)
+- [Java Microservice on Google Kubernetes Engine &lpar;GKE&rpar; Cluster](https://blog.adafycheng.dev/java-microservice-on-google-kubernetes-engine-gke-cluster)
+- [CI with Snyk using GitHub Actions](https://blog.adafycheng.dev/ci-with-snyk-using-github-actions)
+- [Develop a React Component using create-react-library template](https://blog.adafycheng.dev/develop-a-react-component-using-create-react-library-template)
+- [Dockerizing a Node.js web application](https://blog.adafycheng.dev/dockerizing-a-nodejs-web-application)
+- [Running Microservices in Docker](https://blog.adafycheng.dev/running-microservices-in-docker)
 <!-- BLOG-POST-LIST:END -->
 
 
