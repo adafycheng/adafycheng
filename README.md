@@ -1,4 +1,4 @@
-# Hi~~~ I'm Ada
+# Hi~~~ I'm Ada~~~
 
 ## I'm a Java Developer~~~
 
@@ -21,6 +21,8 @@
 - [Dockerizing a Node.js web application](https://blog.adafycheng.dev/dockerizing-a-nodejs-web-application)
 - [Running Microservices in Docker](https://blog.adafycheng.dev/running-microservices-in-docker)
 <!-- BLOG-POST-LIST:END -->
+[More Posts...](https://blog.adafycheng.dev)
 
+---
 
 <a href="https://app.daily.dev/adafycheng"><img src="https://api.daily.dev/devcards/07dbaffb99824d8aa855bd31df8207f2.png?r=btq" width="400" alt="Ada Cheng's Dev Card"/></a>
