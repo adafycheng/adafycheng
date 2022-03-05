@@ -5,7 +5,7 @@
 ### Connect with me:
 [![GitHub](images/github.png)](https://github.com/adafycheng)
 [![LinkedIn](images/linkedin.png)](https://linkedin.com/in/adafycheng)
-[![Stackoverflow](images/stackoverflow.png)](https://stackoverflow.com/story/adafychen)
+[![Stackoverflow](images/stackoverflow.png)](https://stackoverflow.com/story/adafycheng)
 [![Twitter](images/twitter.png)](https://twitter.com/adafycheng)
 [![Google Developer](images/gdev.png)](https://g.dev/adafycheng)
 [![CodePen](images/codepen.png)](https://codepen.io/adafycheng)
