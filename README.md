@@ -19,11 +19,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploy Node.js application to Vercel in 5 minutes](https://blog.adafycheng.dev/deploy-nodejs-application-to-vercel-in-5-minutes)
 - [Java Microservice on Google Kubernetes Engine &lpar;GKE&rpar; Cluster](https://blog.adafycheng.dev/java-microservice-on-google-kubernetes-engine-gke-cluster)
 - [CI with Snyk using GitHub Actions](https://blog.adafycheng.dev/ci-with-snyk-using-github-actions)
 - [Develop a React Component using create-react-library template](https://blog.adafycheng.dev/develop-a-react-component-using-create-react-library-template)
 - [Dockerizing a Node.js web application](https://blog.adafycheng.dev/dockerizing-a-nodejs-web-application)
-- [Running Microservices in Docker](https://blog.adafycheng.dev/running-microservices-in-docker)
 <!-- BLOG-POST-LIST:END -->
 [More Posts...](https://blog.adafycheng.dev)
 
