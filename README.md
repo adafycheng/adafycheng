@@ -1,5 +1,7 @@
 # Hi~~~ I'm Ada~~~
 
+[![Code Warrior](https://www.codewars.com/users/adafycheng/badges/micro)](https://www.codewars.com/users/adafycheng)
+
 ## I'm a Java Developer~~~
 + ⚛️ I'm interested in cloud computing and microservices.
 + 🖥️ I like reading, watching films and TV dramas.
