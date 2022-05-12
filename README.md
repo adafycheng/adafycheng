@@ -21,11 +21,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [org.apache.kafka.common.config.ConfigException: Please specify a key serde or set one through StreamsConfig#DEFAULT_KEY_SERDE_CLASS_CONFIG](https://blog.adafycheng.dev/orgapachekafkacommonconfigconfigexception-please-specify-a-key-serde-or-set-one-through-streamsconfigdefaultkeyserdeclassconfig)
 - [Existing internal topic has invalid partitions](https://blog.adafycheng.dev/existing-internal-topic-has-invalid-partitions)
 - [Write a custom component for Home Assistant](https://blog.adafycheng.dev/write-a-custom-component-for-home-assistant)
 - [Deploy a Docker image to Google Cloud using Cloud Run](https://blog.adafycheng.dev/deploy-a-docker-image-to-google-cloud-using-cloud-run)
 - [Deploy Node.js application to Vercel in 5 minutes](https://blog.adafycheng.dev/deploy-nodejs-application-to-vercel-in-5-minutes)
-- [Java Microservice on Google Kubernetes Engine &lpar;GKE&rpar; Cluster](https://blog.adafycheng.dev/java-microservice-on-google-kubernetes-engine-gke-cluster)
 <!-- BLOG-POST-LIST:END -->
 [More Posts...](https://blog.adafycheng.dev)
 
