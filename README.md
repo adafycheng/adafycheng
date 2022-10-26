@@ -21,11 +21,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Trivy - Image Scanning Tool](https://blog.adafycheng.dev/trivy-image-scanning-tool)
 - [Use SonarQube for Code Inspection](https://blog.adafycheng.dev/use-sonarqube-for-code-inspection)
 - [Maven dependencies cached in the local repository](https://blog.adafycheng.dev/maven-dependencies-cached-in-the-local-repository)
 - [Journal Size Full](https://blog.adafycheng.dev/journal-size-full)
 - [Failed to build docker image with warning message &quot;IPv4 forwarding is disabled. Networking will not work&quot;](https://blog.adafycheng.dev/failed-to-build-docker-image-with-warning-message-ipv4-forwarding-is-disabled-networking-will-not-work)
-- [Execution pit-mutation of goal org.pitest:pitest-maven failed](https://blog.adafycheng.dev/execution-pit-mutation-of-goal-orgpitestpitest-maven-failed)
 <!-- BLOG-POST-LIST:END -->
 [More Posts...](https://blog.adafycheng.dev)
 
