@@ -21,11 +21,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kafka Basics](https://blog.adafycheng.dev/kafka-basics)
 - [Spring Boot Application fails to start since it fails to load region from system settings when AWS STS module is included](https://blog.adafycheng.dev/spring-boot-application-fails-to-start-since-it-fails-to-load-region-from-system-settings-when-aws-sts-module-is-included)
 - [Trivy - Image Scanning Tool](https://blog.adafycheng.dev/trivy-image-scanning-tool)
 - [Use SonarQube for Code Inspection](https://blog.adafycheng.dev/use-sonarqube-for-code-inspection)
 - [Maven dependencies cached in the local repository](https://blog.adafycheng.dev/maven-dependencies-cached-in-the-local-repository)
-- [Journal Size Full](https://blog.adafycheng.dev/journal-size-full)
 <!-- BLOG-POST-LIST:END -->
 [More Posts...](https://blog.adafycheng.dev)
 
