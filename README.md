@@ -19,6 +19,11 @@
 
 ---
 
+### Gists
+- [Runnable Gist Example: CLI](https://gist.github.com/adafycheng/314fc85d66356d4e985c02b378178aec)
+
+---
+
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Kafka Basics](https://blog.adafycheng.dev/kafka-basics)
